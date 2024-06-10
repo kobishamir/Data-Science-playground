@@ -1,4 +1,4 @@
-# IBM---Tools-for-Data-Science
+# Data-Science-Playground
 
 ## Editing the file
 
